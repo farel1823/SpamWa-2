@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 
-# Creator :  code link
-# Team : code link
+# Creator :  ./Sandi W
+# Team : No Team
 # Never Mind
 
 from requests import ConnectionError
@@ -197,7 +197,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Wajib SUBCRIBE '+W+' Goblog !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://youtube.com/Code Link')
+	os.system('xdg-open https://youtube.com/SandiW')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
@@ -225,4 +225,3 @@ def Spam():
 			
 if __name__ == '__main__':
 	Spam()
-<img width="2048" height="2048" alt="1000013700" src="https://github.com/user-attachments/assets/7ad85828-623e-48ab-b03c-842f4a91fab7" />
